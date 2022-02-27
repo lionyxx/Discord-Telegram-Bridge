@@ -6,6 +6,10 @@ console.log("Telegram bot token: " + TELEGRAM_BOT_TOKEN);
 
 export var telegram = new TelegramBot(TELEGRAM_BOT_TOKEN, {polling: true});
 
+polling: {
+   interval: 1000
+}
+
 export function telegramGetFileURL(filePath) {
 	try {
     	return "https://api.telegram.org/file/bot" + TELEGRAM_BOT_TOKEN + "/" + filePath;
