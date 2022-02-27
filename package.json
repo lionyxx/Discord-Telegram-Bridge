@@ -21,7 +21,7 @@
     "node-telegram-bot-api": "^0.56.0"
   },
   "repository": {
-    "url": "https://github.com/SebaUbuntu/discord-telegram-bridge"
+    "url": "https://github.com/johnkryptochain/Discord-Telegram-Bridge"
   },
   "license": "GPL-3.0-or-later",
   "keywords": [
