@@ -19,7 +19,7 @@ Created for the **Crypto Knowledge Pool Bridges**!
 #### Setup:
 > If you want to run it on heroku, you can just click the button below. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rikj000/Discord-Telegram-Bridge)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/johnkryptochain/Discord-Telegram-Bridge)
 
 * Clone the GitHub repo
 * Execute `npm install`
